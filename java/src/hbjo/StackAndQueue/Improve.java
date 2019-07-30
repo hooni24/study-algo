@@ -1,10 +1,9 @@
-package hbjo.Improve;
+package hbjo.StackAndQueue;
 
-import javax.xml.transform.Templates;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FunctionDevelopment {
+public class Improve {
 
     public int[] solution(int[] progresses, int[] speeds) {
 

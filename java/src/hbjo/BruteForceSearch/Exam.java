@@ -1,8 +1,8 @@
-package hbjo.Exam;
+package hbjo.BruteForceSearch;
 
 import java.util.*;
 
-public class Examination {
+public class Exam {
 
     public int[] solution(int[] answers) {
         int[] answer = {};

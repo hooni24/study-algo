@@ -1,9 +1,9 @@
-package hbjo.Marathon;
+package hbjo.Hash;
 
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class UnfinishedPlayer {
+public class Marathon {
 
     /**
      *  solution1 보다 solution2가 6배 정도의 좋은 효율을 보임
